@@ -5,6 +5,6 @@ Analysis of AB test results for an e-commerce website.
 
 * Analyze_ab_test_results_notebook.ipynb - open with jupyter notebook to view source code
 
-*ab_data.csv - primary dataset
+* ab_data.csv - primary dataset
 
-*countries.csv - secondary dataset
+* countries.csv - secondary dataset
